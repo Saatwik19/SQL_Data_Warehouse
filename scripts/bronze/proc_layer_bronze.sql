@@ -18,8 +18,6 @@ Usage Example:
 ===============================================================================
 */
 
-CREATE OR ALTER PROCEDURE bronze.load_bronze AS
-```
 
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
 BEGIN
